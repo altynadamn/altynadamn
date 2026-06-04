@@ -15,8 +15,3 @@ Backend developer.
 
 ---
 
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=altynadamn&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altynadamn&layout=compact&hide_border=true&theme=default)
